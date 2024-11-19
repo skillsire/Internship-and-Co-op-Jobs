@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-	<h3>🧩 Puzzled by the constant search for new internships every day? ⁉️</h3>
+	<h3>🧩 Puzzled by the constant search for new internships every day ❓</h3>
 <p>We hand-pick Internship & Co-op jobs based on criteria that ensure maximum relevance and quality:</p>
 
 <p>✔️ <strong>Looking for a broader range of Internship & Co-op opportunities?</strong><br>
