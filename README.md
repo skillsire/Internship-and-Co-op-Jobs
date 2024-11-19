@@ -11,10 +11,15 @@
   <li><strong>Fork</strong> it to customize and share with others in your network!</li>
 </ul>
 
+---
+
+<div align="center">
+	<h3>😟 by the constant search for new internships every day? 🧩</h3>
 <p>We hand-pick Internship & Co-op jobs based on criteria that ensure maximum relevance and quality:</p>
 
 <p>✔️ <strong>Looking for a broader range of Internship & Co-op opportunities?</strong><br>
 This repository showcases a selection of quality roles, but for thousands more jobs tailored to your skills and experience, visit <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?jt=int&loc=Worldwide&type=world&lat=0&lng=0&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github">Skillsire.com</a>. Access <strong>200,000+ updated listings daily</strong> to find the right match for you.</p>
+</div>
 
 ---
 
