@@ -20,7 +20,7 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 <div align="center">
 <p>
-    <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?jt=int&loc=Worldwide&type=world&lat=0&lng=0&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github"><b>👇 Revamp your job search & Secure Your Dream Role 👇</b></a>
+    <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?jt=int&loc=Worldwide&type=world&lat=0&lng=0&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github"><b>👇 Revamp your Internship search & Secure Your Dream Role 👇</b></a>
     <br>
     <br>
     <a href="https://www.skillsire.com/job/jobs-enlisting/all-jobs?jt=int&loc=Worldwide&type=world&lat=0&lng=0&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github">
