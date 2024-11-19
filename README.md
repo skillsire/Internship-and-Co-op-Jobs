@@ -3,7 +3,7 @@
 
 <p>This repository is your go-to resource for finding the latest internships/co-ops, updated daily for maximum relevance. Use this repo to discover and track new opportunities.</p>
 
-<p>👉 <strong>Make the most of this resource:</strong></p>
+<p>⚠️ <strong>Make the most of this resource:</strong></p>
 <ul>
   <li><strong>Become a Watcher</strong> to get notified of the latest opportunities as soon as they’re posted!</li>
   <li><strong>Give it a Star</strong> if you find it helpful, and help others discover this valuable resource too!</li>
@@ -47,7 +47,7 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 ---
 
-## Daily Internship & Co-op Jobs List  ❤️
+## Daily Internship & Co-op Jobs List ❤️
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
