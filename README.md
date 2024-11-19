@@ -51,9 +51,9 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Job Title | Location | Visa status | Link | Date Posted |
-| ------- | --------- | -------- | ---------- | ---- | ----------- |
-| **[Credit Karma](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github&dp=pm&comp=66780de6a180151f6f5752b0)** | Software Engineering Intern (Summer 2025) | Charlotte, NC, US | ⭐ | [apply](https://www.skillsire.com/job/jobs-enlisting/all-jobs?jt=int&loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github&dp=pm&jobId=ff16c3eb889a76c12a7933a6052d6971) | 2024-11-18 |
+| Company | Job Title | Location | Link | Date Posted |
+| ------- | --------- | -------- | ---- | ----------- |
+| **[Credit Karma](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github&dp=pm&comp=66780de6a180151f6f5752b0)** | Software Engineering Intern (Summer 2025) | Charlotte, NC, US | [apply](https://www.skillsire.com/job/jobs-enlisting/all-jobs?jt=int&loc=United+States&type=country&cc=us&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github&dp=pm&jobId=ff16c3eb889a76c12a7933a6052d6971) | 2024-11-18 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 
