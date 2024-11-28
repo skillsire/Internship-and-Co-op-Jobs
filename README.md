@@ -58,6 +58,12 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 | Company | Job Title | Location | Link | Date Posted |
 | ------- | --------- | -------- | ---- | ----------- |
+| **[MongoDB](https://www.mongodb.com/)** | Software Engineering, Product - Intern - 2025 |  New York, NY, US | [apply](https://app.ripplematch.com/v2/public/job/09e1dc0b/details?from_page=skillsire) | Nov 27 |
+| **[MongoDB](https://www.mongodb.com/)** | UI Engineer - Intern - 2025 |  New York, NY, US | [apply](https://app.ripplematch.com/v2/public/job/d4e9ac12/details?from_page=skillsire) | Nov 27 |
+| **[MongoDB](https://www.mongodb.com/)** | Information Security Engineering - Intern - 2025 |  New York, NY, US | [apply](https://app.ripplematch.com/v2/public/job/7e443388/details?from_page=skillsire) | Nov 27 |
+| **[MongoDB](https://www.mongodb.com/)** | Product Design - Intern - 2025 |  New York, NY, US | [apply](https://app.ripplematch.com/v2/public/job/317896b2/details?from_page=skillsire) | Nov 27 |
+| **[MongoDB](https://www.mongodb.com/)** | Technical Writer - Intern - 2025 |  New York, NY, US | [apply](https://app.ripplematch.com/v2/public/job/39caea05/details?from_page=skillsire) | Nov 27 |
+| **[MongoDB](https://www.mongodb.com/)** | Product Management - Intern - 2025 |  New York, NY, US | [apply](https://app.ripplematch.com/v2/public/job/6d670203/details?from_page=skillsire) | Nov 27 |
 | **[Delta Air Lines](https://www.delta.com/)** | Intern, Software Engineering (Summer 2025) |  Atlanta, GA, US | [apply](https://delta.avature.net/en_US/careers/JobDetail/Intern-Software-Engineering-Summer-2025/25638?jobId=25638) | Nov 27 |
 | **[Delta Air Lines](https://www.delta.com/)** | Intern, Digital Strategy (Spring 2025) |  Atlanta, GA, US | [apply](https://delta.avature.net/en_US/careers/JobDetail/Intern-Digital-Strategy-Spring-2025/26941?jobId=26941) | Nov 27 |
 | **[Delta Air Lines](https://www.delta.com/)** | Intern, IT - Business Strategy (Summer 2025) |  Atlanta, GA, US | [apply](https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Business-Strategy-Summer-2025/25669?jobId=25669) | Nov 27 |
