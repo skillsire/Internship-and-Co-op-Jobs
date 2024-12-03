@@ -58,6 +58,13 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 | Company | Job Title | Location | Link | Date Posted |
 | ------- | --------- | -------- | ---- | ----------- |
+| **[Amazon](https://www.amazon.com/)** | 2025 Software Dev Engineer Intern - Compiler, Annapurna ML | Cupertino, CA, US | [apply](https://amazon.jobs/en/jobs/2794068/2025-software-dev-engineer-intern-compiler-annapurna-ml) | Dec 3 |
+| **[Amazon](https://www.amazon.com/)** | Mobile Engineering Intern , Commerce | San Francisco, CA, US | [apply](https://amazon.jobs/en/jobs/2837260/mobile-engineering-intern-commerce) | Dec 3 |
+| **[Amazon](https://www.amazon.com/)** | Data Center Infrastructure Engineer Intern | Herndon, VA, US | [apply](https://amazon.jobs/en/jobs/2837643/data-center-infrastructure-engineer-intern) | Dec 3 |
+| **[Amazon](https://www.amazon.com/)** | 2025 Amazon Air Program Manager Intern | Bellevue, WA, US | [apply](https://amazon.jobs/en/jobs/2820594/2025-amazon-air-program-manager-intern) | Dec 3 |
+| **[Amazon](https://www.amazon.com/)** | Cloud Consultant Intern, AWS Professional Services | Seattle, WA, US | [apply](https://amazon.jobs/en/jobs/2829315/cloud-consultant-intern-aws-professional-services) | Dec 3 |
+| **[Amazon](https://www.amazon.com/)** | Software Development Engineer Intern 2025, AI/ML | Multiple Locations, US | [apply](https://amazon.jobs/en/jobs/2787427/software-development-engineer-intern-2025-ai-ml) | Dec 3 |
+| **[Amazon](https://www.amazon.com/)** | Engineering Intern | San Francisco, CA, US | [apply](https://amazon.jobs/en/jobs/2837268/engineering-intern) | Dec 3 |
 | **[VISA](https://www.visa.com)** | Software Engineer Intern | Bellevue, WA, US | [apply](https://corporate.visa.com/en/jobs/REF79761T) | Dec 3 |
 | **[VISA](https://www.visa.com)** | Data Science, Intern – Summer 2025 | San Francisco, CA, US | [apply](https://corporate.visa.com/en/jobs/REF79892F) | Dec 3 |
 | **[VISA](https://www.visa.com)** | Data Engineer, Intern - Summer 2025 | Austin, TX, US | [apply](https://corporate.visa.com/en/jobs/REF79815X) | Dec 3 |
