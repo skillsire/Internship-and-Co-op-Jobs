@@ -58,6 +58,17 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 | Company | Job Title | Location | Link | Date Posted |
 | ------- | --------- | -------- | ---- | ----------- |
+| **[NVIDIA](https://www.coinbase.com/)** | Software Engineer Intern | US | [apply](https://www.coinbase.com/en-ca/careers/positions/6266440) | Dec 17 |
+| **[NVIDIA](https://www.coinbase.com/)** | Associate Product Manager Intern | US | [apply](https://www.coinbase.com/en-ca/careers/positions/6266438) | Dec 17 |
+| **[NVIDIA](https://www.coinbase.com/)** | Data Science Intern | US | [apply](https://www.coinbase.com/en-ca/careers/positions/6266445) | Dec 17 |
+| **[NVIDIA](https://www.coinbase.com/)** | Emerging Talent Program Intern | US | [apply](https://www.coinbase.com/en-ca/careers/positions/6322023) | Dec 17 |
+| **[NVIDIA](https://www.coinbase.com/)** | Penetration Testing Intern | US | [apply](https://www.coinbase.com/en-ca/careers/positions/6312826) | Dec 17 |
+| **[NVIDIA](https://www.coinbase.com/)** | Product Design Intern | US | [apply](https://www.coinbase.com/en-ca/careers/positions/6266474) | Dec 17 |
+| **[NVIDIA](https://www.coinbase.com/)** | Security Engineer Intern | US | [apply](https://www.coinbase.com/en-ca/careers/positions/6306332) | Dec 17 |
+| **[Pinterest](https://www.pinterestcareers.com/)** | IT Software Engineering Intern | US | [apply](https://www.pinterestcareers.com/jobs/6319488/it-software-engineering-intern-usa/?utm_source=Skillsire&gh_jid=6319488) | Dec 17 |
+| **[Pinterest](https://www.pinterestcareers.com/)** | IT Data Engineer Intern | US | [apply](https://www.pinterestcareers.com/jobs/6319528/it-data-engineer-intern-usa/?utm_source=Skillsire&gh_jid=6319528) | Dec 17 |
+| **[Pinterest](https://www.pinterestcareers.com/)** | IT Project Management Intern | US | [apply](https://www.pinterestcareers.com/jobs/6319554/it-project-management-intern-usa/?utm_source=Skillsire&gh_jid=6319554) | Dec 17 |
+| **[Oracle](https://www.oracle.com/)** | Financial Analyst Intern (Summer 2025) | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/261973?utm_medium=jobboard&utm_source=Skillsire) | Dec 17 |
 | **[NVIDIA](https://www.nvidia.com/)** | Enterprise Marketing Campaigns Intern - Summer 2025 |  Santa Clara, CA, US | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Marketing-Campaigns-Intern---Summer-2025_JR1992739) | Dec 15 |
 | **[Adobe](https://www.adobe.com/)** | 2025 Intern - Software Engineer | San Francisco, CA, US | [apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2025-Intern---Software-Engineer_R147746?utm_source=Skillsire) | Dec 15 |
 | **[Intel](https://www.intel.com/)** | Undergraduate Intern Software Engineer |  Santa Clara, CA, US | [apply](https://jobs.intel.com/en/job/-/-/599/74381662192?source=Skillsire) | Dec 15 |
