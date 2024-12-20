@@ -58,6 +58,18 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 | Company | Job Title | Location | Link | Date Posted |
 | ------- | --------- | -------- | ---- | ----------- |
+| **[Oracle](Oracle.com)** | Applications Engineering Intern | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/271485) | Dec 20 |
+| **[Oracle](Oracle.com)** | Integrations Engineering Intern | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/271516) | Dec 20 |
+| **[Oracle](Oracle.com)** | Software Engineer Intern - Database Technologies | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/255983) | Dec 20 |
+| **[Oracle](Oracle.com)** | Technical Account Manager Intern | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/270356) | Dec 20 |
+| **[Oracle](Oracle.com)** | Data Science and Engineering Intern | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/271511) | Dec 20 |
+| **[Oracle](Oracle.com)** | Database Cloud Engineering Intern | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/271500) | Dec 20 |
+| **[Oracle](Oracle.com)** | Analytics Engineering Intern | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/271495) | Dec 20 |
+| **[Oracle](Oracle.com)** | Product Manager Intern | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/259401) | Dec 20 |
+| **[Oracle](Oracle.com)** | Financial Analyst Intern (Summer 2025) | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/261973) | Dec 20 |
+| **[Oracle](Oracle.com)** | Software Engineer Intern - NetSuite | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/256285) | Dec 20 |
+| **[Oracle](Oracle.com)** | GenAI PhD Research Intern - Oracle Cloud Infrastructure | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/265967) | Dec 20 |
+| **[Oracle](Oracle.com)** | Technical Support Engineer Intern | US | [apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/270801) | Dec 20 |
 | **[Adobe](Adobe.com)** | 2025 Intern - Software Development Engineer  | San Jose, CA, US | [apply](https://careers.adobe.com/us/en/job/R149344/2025-Intern-Software-Development-Engineer) | Dec 19 |
 | **[Adobe](Adobe.com)** | 2025 Intern CV/ML - Machine Learning Engineer  | Seattle, CA, US | [apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2025-Intern---Machine-Learning-Engineer-CV-ML_R148716?utm_source=Skillsire) | Dec 19 |
 | **[Adobe](Adobe.com)** | 2025 Intern - Data Scientist | Seattle, CA, US | [apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2025-Intern---Data-Scientist_R149633?utm_source=Skillsire) | Dec 19 |
