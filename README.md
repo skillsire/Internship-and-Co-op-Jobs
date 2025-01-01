@@ -58,6 +58,14 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 | Company | Job Title | Location | Link | Date Posted |
 | ------- | --------- | -------- | ---- | ----------- |
+| **[Lyft]([Amazon.com](https://www.lyft.com/))** | Data Science Intern, Algorithms (Summer 2025) | San Francisco, CA, US | [apply](https://app.careerpuck.com/job-board/lyft/job/7627231002?gh_jid=7627231002) | Jan 1 |
+| **[Lyft]([Amazon.com](https://www.lyft.com/))** | Product Design Intern (Summer 2025) | San Francisco, CA, US | [apply](https://app.careerpuck.com/job-board/lyft/job/7617876002?gh_jid=7617876002) | Jan 1 |
+| **[Lyft]([Amazon.com](https://www.lyft.com/))** | Financial Planning and Analysis (FP&A) Intern (Summer 2025) | San Francisco, CA, US | [apply](https://app.careerpuck.com/job-board/lyft/job/7769284002?gh_jid=7769284002) | Jan 1 |
+| **[Lyft]([Amazon.com](https://www.lyft.com/))** | Global Supply Chain Intern (Summer 2025) | San Francisco, CA, US | [apply](https://app.careerpuck.com/job-board/lyft/job/7773782002?gh_jid=7773782002) | Jan 1 |
+| **[Lyft]([Amazon.com](https://www.lyft.com/))** | Software Engineer Intern, Backend - Toronto (Summer 2025) | Toronto, Canada | [apply](https://app.careerpuck.com/job-board/lyft/job/7612143002?gh_jid=7612143002) | Jan 1 |
+| **[Lyft]([Amazon.com](https://www.lyft.com/))** | Data Science Intern, Decisions Product - Toronto (Summer 2025) | Toronto, Canada | [apply](https://app.careerpuck.com/job-board/lyft/job/7627220002?gh_jid=7627220002) | Jan 1 |
+| **[Lyft]([Amazon.com](https://www.lyft.com/))** | Software Engineer Intern, Backend - Montreal (Summer 2025) | Montreal, Canada | [apply](https://app.careerpuck.com/job-board/lyft/job/7619583002?gh_jid=7619583002) | Jan 1 |
+| **[Lyft]([Amazon.com](https://www.lyft.com/))** | Support Operations Analyst Intern - Montreal, Canada (Summer 2025) | Montreal, Canada | [apply](https://app.careerpuck.com/job-board/lyft/job/7768967002?gh_jid=7768967002) | Jan 1 |
 | **[Amazon](Amazon.com)** | Software Development Engineer Intern | Sunnyvale, CA, US | [apply](https://www.amazon.jobs/en/jobs/2863580/software-development-engineer-intern-specialized-co-op-summer-2025-us) | Dec 31 |
 | **[Microsoft](Microsoft.com)** | Data Science: Internship Opportunities | Redmond, WA,  US | [apply](https://jobs.careers.microsoft.com/global/en/job/1748409/Data-Science%3A-Internship-Opportunities---Redmond) | Dec 31 |
 | **[Microsoft](Microsoft.com)** | Data Science: PhD Internship Opportunities | Mountain View, CA,  US | [apply](https://jobs.careers.microsoft.com/global/en/job/1761543/Data-Science%3A-PhD-Internship-Opportunities---Mountain-View) | Dec 31 |
