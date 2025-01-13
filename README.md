@@ -5,7 +5,7 @@
 
 <p>⚠️ <strong>Make the most of this resource:</strong></p>
 <ul>
-  <li>👁 <strong>Become a Watcher</strong> to get notified of the latest opportunities as soon as they’re posted!</li>
+  <li>👁 <strong>Become a Watcher</strong> to get notified of the latest opportunities as soon as they’re posted here!</li>
   <li>⭐ <strong>Give it a Star</strong> if you find it helpful, and help others discover this valuable resource too!</li>
   <li>🏷 <strong>Bookmark</strong> it to stay on top of new updates!</li>
   <li>🍴 <strong>Fork</strong> it to customize and share with others in your network!</li>
