@@ -1,10 +1,7 @@
 # 2024 - 2025 Internship & Co-op jobs by Skillsire.com
 ⭐️ **Kickstart Your Career with Daily Updated Internship & Co-op Opportunities!** ⭐️
 
-<p>This repos![image](https://github.com/user-attachments/assets/85186161-9f7c-42d4-8a11-8cca92df479c)
-![image](https://github.com/user-attachments/assets/1300f606-a7ef-4e62-8944-b875392376ea)
-![image](https://github.com/user-attachments/assets/25b06d78-09fa-46f6-b89d-039d3441679a)
-itory is your go-to resource for finding the latest internships/co-ops, updated daily for maximum relevance. Use this repo to discover and track new opportunities.</p>
+<p>This repository is your go-to resource for finding the latest internships/co-ops, updated daily for maximum relevance. Use this repo to discover and track new opportunities.</p>
 
 <p>⚠️ <strong>Make the most of this resource:</strong></p>
 <ul>
