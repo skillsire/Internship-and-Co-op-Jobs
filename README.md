@@ -58,6 +58,7 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 | Company | Job Title | Location | Link | Date Posted |
 | ------- | --------- | -------- | ---- | ----------- |
+| **[Sherwin-Williams](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=Worldwide&type=world&lat=0&lng=0&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github&dp=pm&comp=670f9dbcbbc34f256389a9c9)** | 2025 R&D Summer Internship- Pittsburgh | Pittsburgh, PA | [apply](https://www.skillsire.com/job/jobs-enlisting/all-jobs?query=Intern&loc=Worldwide&type=world&lat=0&lng=0&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github&dp=pm&jobId=5697b9b02b59447f3e52a9cd9a8cc792) | Jan 17 |
 | **[Meta](https://www.meta.com/)** | Data Engineer Intern | Bellevue, WA, USA | [apply](https://www.metacareers.com/jobs/1668648587034930) | Jan 17 |
 | **[Meta](https://www.meta.com/)** | Data Scientist Intern | Bellevue, WA, USA | [apply](https://www.metacareers.com/jobs/1730823254404037) | Jan 17 |
 | **[Google](https://www.google.com/)** | Student Researcher, BS/MS, Winter/Summer 2025 | Mountain View, CA, USA | [apply](https://www.google.com/about/careers/applications/jobs/results/141568859843764934-student-researcher-bsms-wintersummer-2025) | Jan 17 |
