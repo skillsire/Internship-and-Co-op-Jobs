@@ -58,6 +58,7 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 | Company | Job Title | Location | Link | Date Posted |
 | ------- | --------- | -------- | ---- | ----------- |
+| **[Chipotle](https://www.chipotle.com/)** | International Business Development - Internship | Newport Beach, Ca, US | [apply](https://jobs.chipotle.com/job/newport-beach/international-business-development-internship/282/76794375920) | Feb 04 |
 | **[Apple](https://www.apple.com/)** | Software Engineering Applications Intern | Sunnyvale, CA, US | [apply](https://jobs.apple.com/en-us/details/200576139/claris-software-engineering-applications) | Feb 03 |
 | **[Google](https://www.google.com/)** | Software Engineer (Early Career) | Boulder, CO, US | [apply](https://www.google.com/about/careers/applications/jobs/results/121798928013107910-software-engineer-google-cloud-computing-cloud-learning-services) | Feb 03 |
 | **[Sherwin-Williams](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=Worldwide&type=world&lat=0&lng=0&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github&dp=pm&comp=670f9dbcbbc34f256389a9c9)** | BPI Finance Year-Round Intern | Cleveland, OH | [apply](https://www.skillsire.com/job/jobs-enlisting/all-jobs?query=Intern&loc=Worldwide&type=world&lat=0&lng=0&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github&dp=pm&jobId=214f591992374536c65e135db05aea56) | Feb 03 |
