@@ -58,6 +58,7 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 | Company | Job Title | Location | Link | Date Posted |
 | ------- | --------- | -------- | ---- | ----------- |
+| **[Accenture](https://www.accenture.com/)** | Data & AI Developer Summer Analyst Intern | San Francisco, CA, USA | [apply](https://www.accenture.com/us-en/careers/jobdetails?id=R00254179_en) | Feb 10 |
 | **[Advanced Technology Services](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=Worldwide&type=world&lat=0&lng=0&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github&dp=pm&comp=66fc5338bbe197293e5a1292)** | Product Management Intern | Peoria, Illinois, United States | [apply](https://www.skillsire.com/job/jobs-enlisting/all-jobs?query=Intern&loc=Worldwide&type=world&lat=0&lng=0&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github&dp=pm&jobId=172b3a8c618830092bc1579a4d1e72c3) | Feb 10 |
 | **[Meta](https://www.meta.com/)** | Production Engineer (University Grad) | Sunnyvale, CA, USA | [apply](https://www.metacareers.com/jobs/477195844990625/) | Feb 10 |
 | **[Meta](https://www.meta.com/)** | Network Production Engineer (University Grad) | Menlo Park, CA, USA | [apply](https://www.metacareers.com/jobs/520974660595763/) | Feb 10 |
