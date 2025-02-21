@@ -58,6 +58,7 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 | Company | Job Title | Location | Link | Date Posted |
 | ------- | --------- | -------- | ---- | ----------- |
+| **[Netflix](https://netflix.net/)** | Machine Learning Intern | Los Gatos, CA, USA | [apply](https://explore.jobs.netflix.net/careers/job/790299528946) | Feb 21 |
 | **[Apple](https://apple.com/)** | Software Engineering Internships | USA | [apply](https://jobs.apple.com/en-ca/details/200554359/software-engineering-internships) | Feb 20 |
 | **[Yahoo](https://yahoo.com/)** | Emerging Careers & Learning Intern | USA | [apply](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Emerging-Careers---Learning-Intern_JR0025541) | Feb 20 |
 | **[Fidelity Investments](https://www.skillsire.com/job/jobs-enlisting/all-jobs?loc=Worldwide&type=world&lat=0&lng=0&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github&dp=pm&comp=671233e84ad07c1a7c3fa3a9)** | Client Service Associate - Entry Level | MERRIMACK, New Hampshire, United States | [apply](https://www.skillsire.com/job/jobs-enlisting/all-jobs?query=Intern&loc=Worldwide&type=world&lat=0&lng=0&utm_source=github&utm_medium=skillsiregithubinternrepo&utm_campaign=githubrepo&utm_content=github&dp=pm&jobId=86ae3b6d207ab6667b74c9be69a7aa77) | Feb 19 |
