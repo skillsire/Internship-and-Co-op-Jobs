@@ -58,6 +58,8 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 | Company | Job Title | Location | Link | Date Posted |
 | ------- | --------- | -------- | ---- | ----------- |
+| **[Warner Bros. Discovery](https://wbd.com/)** | Software Engineering Co-op: Summer 2025 | Chicago, IL, USA | [apply](https://careers.wbd.com/global/en/job/R000085813/NetherRealm-Software-Engineering-Co-op-Chicago-Summer-2025-June-December) | Feb 22 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | Research & Analytics Internships | Atlanta, GA, USA | [apply](https://careers.wbd.com/global/en/job/R000089623/Research-Analytics-Internships-ATL-Summer-2025) | Feb 22 |
 | **[Netflix](https://netflix.net/)** | Machine Learning Intern | Los Gatos, CA, USA | [apply](https://explore.jobs.netflix.net/careers/job/790299528946) | Feb 21 |
 | **[Apple](https://apple.com/)** | Software Engineering Internships | USA | [apply](https://jobs.apple.com/en-ca/details/200554359/software-engineering-internships) | Feb 21 |
 | **[Yahoo](https://yahoo.com/)** | Emerging Careers & Learning Intern | USA | [apply](https://ouryahoo.wd5.myworkdayjobs.com/careers/job/United-States-of-America/Emerging-Careers---Learning-Intern_JR0025541) | Feb 21 |
