@@ -58,6 +58,7 @@ This repository showcases a selection of quality roles, but for thousands more j
 
 | Company | Job Title | Location | Link | Date Posted |
 | ------- | --------- | -------- | ---- | ----------- |
+| **[Disney](https://www.disney.com/)** | Software Engineering Intern | Morrisville, NC, USA | [apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Morrisville-NC-USA/Software-Engineering-Intern--Morrisville--NC--Summer-2025_10105231) | Feb 24 |
 | **[Universal](https://www.universalorlando.com/)** | Internship – Software Engineer (Web) | Orlando, FL, USA | [apply](https://careers.pageuppeople.com/851/cw/en-us/job/634330/internship-software-engineer-web-fall-2025) | Feb 23 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | Software Engineering Co-op: Summer 2025 | Chicago, IL, USA | [apply](https://careers.wbd.com/global/en/job/R000085813/NetherRealm-Software-Engineering-Co-op-Chicago-Summer-2025-June-December) | Feb 22 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | Research & Analytics Internships | Atlanta, GA, USA | [apply](https://careers.wbd.com/global/en/job/R000089623/Research-Analytics-Internships-ATL-Summer-2025) | Feb 22 |
